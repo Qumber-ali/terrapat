@@ -7,7 +7,7 @@ This repository contains terraform code along with golang package that provides 
 
 Clone this repository by running:
 ```sh
-git clone https://github.com/Qumber-ali/aztf-pat.git
+git clone https://github.com/Qumber-ali/terrapat.git
 ```
 After cloning navigate to scripts directory and build the golang executable by running:
 ```golang
