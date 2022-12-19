@@ -11,7 +11,7 @@ git clone https://github.com/Qumber-ali/terrapat.git
 ```
 After cloning navigate to scripts directory and build the golang executable by running:
 ```golang
-go mod tidy && go build pat.go
+go get -d ./.. && go build pat.go
 ```
 After building the executable you are ready to run the terraform code.
 
