@@ -1,5 +1,5 @@
 # Terrapat for Azure DevOps
-![Qamber](https://miro.medium.com/max/600/1*wHyWnltgrOclEbAFI0-fHw.png)
+![Qamber](assets/terrapat.png)
 
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
